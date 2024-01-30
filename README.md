@@ -1,4 +1,4 @@
-<p align="center"> 
+<p*align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
 <!--<img src="https://badges.pufler.dev/created/milaan9/10_Python_Pandas_Module" alt="Created"/>-->
 <!--<a href="https://github.com/milaan9/10_Python_Pandas_Module/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/10_Python_Pandas_Module.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
@@ -19,13 +19,13 @@
 <a href="https://githubtocolab.com/milaan9/10_Python_Pandas_Module"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 </p> 
  
-# 10_Python_Pandas_Module
+! 10_Python_Pandas_Module
 
 
 ## Introduction 👋
 
 ### What is Pandas in Python?
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) is the most famous python library providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, **real world** data analysis in Python. Additionally, it has the broader goal of becoming **the most powerful and flexible open source data analysis / manipulation tool available in any language**. It is already well on its way towards this goal.
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) is the most famous python library providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, !*real world** data analysis in Python. Additionally, it has the broader goal of becoming **the most powerful and flexible open source data analysis / manipulation tool available in any language**. It is already well on its way towards this goal.
 
 In Pandas, the data is usually utilized to support the statistical analysis in **SciPy**, plotting functions from **Matplotlib**, and machine learning algorithms in **Scikit-learn**.
 
@@ -161,3 +161,4 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/milaan
 
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
+ 
